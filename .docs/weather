@@ -1,0 +1,22 @@
+.\" Manpage for weather.
+.TH man 1 "25 February 2022" "1.0" "weather man page"
+.SH NAME
+.B weather
+- a weather finder for any city in the world
+.SH VERSION
+1.0
+.SH SYNOPSIS
+.B weather
+[city from which you want to get the weather]
+.SH DESCRIPTION
+.B weather
+is a command that allows finding the weather of any city in the world in a fast way
+.SH OPTIONS
+No options available for this version
+.SH NOTE
+When no arguments are passed to the command, it will display the weather in your location - It 
+may be approximate
+.SH BUGS
+No known bugs
+.SH AUTHOR
+.B Haroune Hassine
