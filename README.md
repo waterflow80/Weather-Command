@@ -7,7 +7,7 @@
 
 1. Open your Terminal and tpye the following commands
 2. `cd Downloads`
-3. `git clone ghttps://github.com/waterflow80/Weather-Command.git`
+3. `git clone https://github.com/waterflow80/Weather-Command.git`
 4. `cd Weather-Command`
 5. `./install`
 6. Now the **weather** command should have been installed
