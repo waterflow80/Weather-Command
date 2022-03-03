@@ -13,7 +13,7 @@
 6. Now the **weather** command should have been installed
 
 ## How to use
-- Open your terminal and type `weather name_of_the_city'
+- Open your terminal and type `weather` name_of_the_city
 - If you want to read the documentaion of the **weather** commad, tpye `man weather`
 
 ## Uninstall
